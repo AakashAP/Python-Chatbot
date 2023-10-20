@@ -1,0 +1,22 @@
+{
+"error":["I'm sorry, I'm not able to Understand that","I'm Really Sorry, But I don't have much dialogues programmed in me"],
+"help":["Take a Look at Your Console Output Screen"],
+"hello":["Hello, How are you?"],
+"good morning":["A Very Good Morning to you too","Morning, How are you today?"],
+"how are you?":["Fine, Thankyou for Asking","I'm Good, How about you?"],
+"how are you doing?":["Fine, Thankyou for Asking","I'm Good, How about you?"],
+"i am fine":["Glad to hear that"],
+"i am good":["Glad to hear that","Good, Now, How can I help you?"],
+"tell me about yourself":["I'm a Simple so-called ChatBot, Created only for a School Project"],
+"how are you made?":["I'm Made in Python using Tkinter and JSON file for Database"],
+"what can you do?":["I'm having an English Dictionary Included, I can tell Meaning of any Word, you can think of"],
+"tell me your name?":["My Name is <Name>"],
+"how can i program you?":["You can Program My Dialogues by Editing the JSON File"],
+"can i change your dialogue?":["Anytime, Just Edit the JSON File","You can. Just be careful, When you edit the JSON File"],
+"what to type?":["I can Answer any Doubts you if it can be found in Dictionary"],
+"what should i say?":["I can Answer any Doubts you if it can be found in Dictionary"],
+"i have a question":["I can Answer any Doubts you if it can be found in Dictionary"],
+"bye":["Ok Bye","Hope to See you soon","Have a Nice Day"],
+"talk to you later":["Ok Bye","Hope to See you soon","Have a Nice Day"],
+"see you soon":["Ok Bye","Hope to See you soon","Have a Nice Day"]
+}
